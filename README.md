@@ -11,23 +11,23 @@ The three ipynb files are the main operational code for the project.
 
 1） Data processing.ipynb
 This code is used to pre-process the data and consists of two parts.
-a) Merging the data
-b) Cleaning the data
+1) Merging the data
+2) Cleaning the data
 
 2） Modelling
 This code is used to model the mortality predictions and consists of 5 parts.
-a) Accuracy calculations for Oasis itself
-b) Logistic regression modelling and accuracy calculation
-c) Decision tree modelling and accuracy calculation
-d) Random Forest modelling and accuracy calculation
-e) Neural network modelling and group accuracy calculation
+1) Accuracy calculations for Oasis itself
+2) Logistic regression modelling and accuracy calculation
+3) Decision tree modelling and accuracy calculation
+4) Random Forest modelling and accuracy calculation
+5) Neural network modelling and group accuracy calculation
 
 
 3） Model interpretation
 This section explains the neural network model using four different interpretable algorithms.
-a) Shapley
-b) LIME
-c) Partial Dependence Plot
-d) Morris Sensitivity Analysis
+1) Shapley
+2) LIME
+3) Partial Dependence Plot
+4) Morris Sensitivity Analysis
 
 
