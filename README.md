@@ -9,12 +9,12 @@ The two CSV format files are processed data for experimental modelling.
 
 The three ipynb files are the main operational code for the project.
 
-1. Data processing.ipynb
+1） Data processing.ipynb
 This code is used to pre-process the data and consists of two parts.
 1) merging the data
 2) Cleaning the data
 
-2. Modelling
+2） Modelling
 This code is used to model the mortality predictions and consists of 5 parts.
 1) Accuracy calculations for Oasis itself
 2) Logistic regression modelling and accuracy calculation
@@ -23,7 +23,7 @@ This code is used to model the mortality predictions and consists of 5 parts.
 5) Neural network modelling and group accuracy calculation
 
 
-3. Model interpretation
+3） Model interpretation
 This section explains the neural network model using four different interpretable algorithms.
 1) Shapley
 2) LIME
