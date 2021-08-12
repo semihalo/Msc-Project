@@ -21,6 +21,7 @@ This code is used to model the mortality predictions and consists of 5 parts.
 3) Decision tree modelling and accuracy calculation
 4) Random Forest modelling and accuracy calculation
 5) Neural network modelling and group accuracy calculation
+6) Comparison of all models
 
 
 3） Model interpretation
